@@ -6,7 +6,7 @@
 <h1 align="center">Hello, I am Aly Solamon</h1>
 
 <p align="center">
-  <strong>AI Engineer · Financial Planning & Wealth Management trainee · FP&A trainee · Founder of FinCoach.me</strong><br/>
+  <strong>AI Engineer · Financial Planning & Wealth Management trainee · FP&A trainee · Co-Founder of FinCoach.me</strong><br/>
   I build AI-powered tools for financial planners and their clients, with a focus on explainable recommendations,
   cash-flow clarity, and real-world practice in Ontario, Canada.
 </p>
