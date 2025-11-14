@@ -19,7 +19,7 @@
 - 💼 <strong>Financial planning and wealth:</strong> Chartered Financial Planner trainee, Financial Planning & Wealth Management Professional (FPWMP®) candidate, and Financial Planning & Analysis Professional (FPAP) candidate.
 - 🏗 <strong>Product:</strong> Shipping <strong>FinCoach.me</strong>, a platform where planners and clients share one source of truth for goals, net worth, and cash flow, supported by AI.
 - 🎓 <strong>Academics:</strong> Business & Commerce (Entrepreneurship) with a finance minor, integrating formal financial theory with applied AI.
-- 📈 <strong>Trajectory:</strong> Deliberately building deep competence by combining regulated designations, structured AI training, and shipped products, rather than claiming finished expertise.
+- 📈 <strong>Trajectory:</strong> Deliberately building deep competence by combining regulated designations, structured AI training, and shipped products, rather than claiming finished expertise and we keep learning.
 
 ---
 
