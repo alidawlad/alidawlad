@@ -95,7 +95,7 @@ I keep active and archived experiments in separate repositories, so that I can t
 ### AI Engineering, Agents, and RAG
 
 - **AI Engineering Career Path** · Scrimba  
-  *Credential ID:* `cert2JbLs3qgBCDVg5tgaxcuwTBSDuNyJUzNm8D8Sn` · [View credential](https://scrimba.com/@alidawlad:certs;cert2JbLs3qgBCDVg5tgaxcuwTBSDuNyJUzNm8D8Sn)  
+  *Credential ID:* `cert2JbLs3qgBCDVg5tgaxcuwTBSDuNyJUzNm8D8Sn` · [View credential](https://scrimba.com/cert2JbLs3qgBCDVg5tgaxcuwTBSDuNyJUzNm8D8Sn)  
   End-to-end path covering GenAI application design, prompt engineering, RAG, AI agents, API integration, and AI safety principles, oriented towards building real products rather than isolated demos.
 
   <sub><em>Component modules within this path:</em></sub>  
