@@ -56,12 +56,4 @@ Git · GitHub Actions (basic) · Notion / Obsidian for knowledge systems
 - Studying **Business & Commerce (Entrepreneurship)** in Toronto, with a strong interest in financial planning.
 - Passionate about **applied AI**, **UX for complex decisions**, and making financial planning more accessible.
 
----
-
-## 📫 Connect with me
-
-- 🌐 Website / Portfolio: [https://your-domain.com](https://your-domain.com)
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/YOUR_LINK/)
-- 📧 Email: your.email@example.com
-
 If you work on AI for personal finance, financial planning, or decision tooling, I would be delighted to connect.
