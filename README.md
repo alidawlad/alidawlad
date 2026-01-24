@@ -31,7 +31,11 @@
 ---
 
 ## Featured builds
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alysolamon" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=alysolamon&theme=github-compact&area=true&hide_border=true&height=350"
+  width="100%"
+/>
+
 
 <table>
   <tr>
