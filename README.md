@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=alysolamon&theme=merko" />
+</p>
+<p align="center">
   I build calm, audit-friendly decision-support systems for financial planning — grounded outputs, clear assumptions, human final call.
 </p>
 
@@ -101,15 +104,6 @@
 | `rag-finance-embed` | 🟣 R&D | Embeddings • Vector search | Dense retrieval tuned for financial context. |
 | `transformers-for-finance` | 🟢 Active | PyTorch • Tokenizers | Tokenization + transformer baselines on cash-flow sequences & classification tasks. |
 | `graph-rag-patterns` | 🔵 Prototype | Neo4j • Cypher | GraphRAG retrieval patterns + constraint-aware traversal. |
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alysolamon&theme=merko" />
-</p>
-
 
 ---
 
