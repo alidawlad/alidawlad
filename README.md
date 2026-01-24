@@ -28,6 +28,7 @@
 ---
 
 ## Featured builds
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alysolamon" />
 
 <table>
   <tr>
@@ -106,16 +107,9 @@
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alysolamon&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=alysolamon&theme=merko" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alysolamon&layout=compact&theme=merko" />
-</p>
 
 ---
 
