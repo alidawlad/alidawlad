@@ -3,7 +3,7 @@
 <p align="center">
   AI Engineer • Fintech Builder • Financial Planning & Wealth Mgmt trainee (Ontario)
 </p>
-
+<img src="/github-metrics.svg"/>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alysolamon&theme=merko" />
 </p>
