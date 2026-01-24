@@ -1,182 +1,122 @@
-<!--
-  Profile README for: YOUR_GITHUB_USERNAME
-  Replace placeholders like YOUR_GITHUB_USERNAME, YOUR_LINKEDIN, etc.
--->
-
-<h1 align="center">Hello, I am Aly Solamon</h1>
+<h1 align="center">Aly Solamon</h1>
 
 <p align="center">
-  <strong>AI Engineer · Financial Planning & Wealth Management trainee · FP&A trainee · Co-Founder of FinCoach.me</strong><br/>
-  I build AI-powered tools for financial planners and their clients, with a focus on explainable recommendations,
-  cash-flow clarity, and real-world practice in Ontario, Canada.
+  AI Engineer • Fintech Builder • Financial Planning & Wealth Mgmt trainee (Ontario)
+</p>
+
+<p align="center">
+  I build calm, audit-friendly decision-support systems for financial planning — grounded outputs, clear assumptions, human final call.
+</p>
+
+<p align="center">
+  <a href="https://bsky.app/profile/aly_solamon"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+  <a href="https://instagram.com/aly_solamon"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aly_hussein"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@aly_solamon"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/698546076y"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://x.com/ali_solamon"><img alt="X" src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:alysolamon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="#featured-builds"><b>Featured builds</b></a> •
+  <a href="#tech-stack"><b>Tech stack</b></a> •
+  <a href="#lab-index"><b>Lab index</b></a> •
+  <a href="#github-stats"><b>GitHub stats</b></a>
 </p>
 
 ---
 
-## 📌 Snapshot
+## Featured builds
 
-- 🧠 <strong>AI engineering:</strong> Building agentic and RAG-based systems with LangGraph, Neo4j, and modern TypeScript tooling.
-- 💼 <strong>Financial planning and wealth:</strong> Chartered Financial Planner trainee, Financial Planning & Wealth Management Professional (FPWMP®) candidate, and Financial Planning & Analysis Professional (FPAP) candidate.
-- 🏗 <strong>Product:</strong> Shipping <strong>FinCoach.me</strong>, a platform where planners and clients share one source of truth for goals, net worth, and cash flow, supported by AI.
-- 🎓 <strong>Academics:</strong> Business & Commerce (Entrepreneurship) with a finance minor, integrating formal financial theory with applied AI.
-- 📈 <strong>Trajectory:</strong> Deliberately building deep competence by combining regulated designations, structured AI training, and shipped products, rather than claiming finished expertise and we keep learning.
-
----
-
-## 🚀 What I am building
-
-### FinCoach.me – AI-first financial coaching workspace
-
-A unified workspace where financial planners and clients:
-
-- Run structured intake, cash-flow, and net-worth analysis.
-- Collaborate on goals, tasks, and financial “journeys”.
-- Use AI agents for explanations, projections, and next-step suggestions, while preserving human judgment and regulatory constraints.
-
-<em>Status:</em> Private early-stage product. Built with TypeScript, Next.js, Convex, Clerk, Tailwind, LangGraph, and Vercel AI SDK.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>FinCoach.me</h3>
+      <p>Planner–client workspace for cash flow, net worth, and goal tracking — with audit-friendly AI explanations + next-step suggestions.</p>
+      <p><a href="https://www.fincoach.me/">Website</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ContextEngine</h3>
+      <p>Graph-centric context layer for grounded retrieval, constraints, and human-in-the-loop workflows (high-trust domains).</p>
+      <p><i>(Link when ready)</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ContextEngine (under-development) – Domain-aware context and knowledge engine
+## About
 
-An experimental architecture for powering domain-specific AI agents (starting with personal finance):
-
-- Knowledge-graph centric, using Neo4j and Cypher.
-- Workflow and state management through LangGraph.
-- Designed to become the “context layer” behind products like FinCoach.me.
-
-<em>Status:</em> Design and prototype phase; selected ideas gradually move into FinCoach.me.
-
----
-
-## 🧪 Projects
-
-I keep active and archived experiments in separate repositories, so that I can test ideas before bringing them into production.
-
-- 🎯 **FinCoach.me Core** – Main app repository (authentication, client journeys, dashboards, AI orchestration).  
-  <sub><em>TypeScript · Next.js · Convex · Clerk · Tailwind · LangGraph · Vercel AI SDK</em></sub>
-
-- 🧱 **FinCoach Experiments** – Focused experiments in RAG, agents, prompts, and financial UX patterns.  
-  <sub><em>TypeScript · Python · Hugging Face open-weight models</em></sub>
-
-<!-- Add more projects below as they become public.
-- 📊 **Project Name** – One sentence about what it does and why it exists.
-  <sub><em>Tech stack here</em></sub>
--->
+- 🔭 Working on: FinCoach.me — planner–client workspace + audit-friendly AI explanations.
+- 🌱 Learning: Transformers for financial sequences + evaluation harnesses for grounded outputs.
+- 👯 Collaborate: Open-source GraphRAG + eval + human-in-the-loop workflows (finance & beyond).
+- 🤝 Help wanted: System design reviews for agentic apps: tradeoffs, failure modes, reliability.
+- 💬 Ask me about: Next.js/TS, Convex, GraphRAG (Neo4j), and calm fintech UX.
+- ⚡ Fun fact: I prototype “calm finance” UX like people prototype games.
 
 ---
 
-## 🛠 Skills and Tools
+## Tech stack
 
-### AI and Engineering
+### Core (most used)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- **Languages:** TypeScript, JavaScript, Python  
-- **Frontend:** Next.js, React, Tailwind CSS, shadcn/ui  
-- **Backend and Infra:** Convex, Node.js, REST and basic GraphQL, Vercel  
-- **AI and Agents:** LangGraph, LangChain, LLM APIs, RAG (retrieval-augmented generation)  
-- **Data and Graphs:** Neo4j, Cypher, vector databases, semantic search, knowledge-graph-based RAG  
+### Product + platform
+![Convex](https://img.shields.io/badge/Convex-111111?style=for-the-badge&logo=convex&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Finance and Planning
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111)
 
-- Holistic financial planning and wealth management (Canada-focused)
-- Financial Planning and Analysis (FP&A)
-- Net-worth and cash-flow analysis
-- Retirement income design and longevity-aware planning
-- Behavioural and goal-based financial planning
-- Translating planning workflows into digital systems (checklists, journeys, coaching flows)
+### Data
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
-
-## 🎓 Selected Certifications
-
-> A concise selection of credentials that reflect my current focus in AI engineering and graph data.  
-> A fuller chronological list lives on my LinkedIn; here I emphasise what directly supports my work.
-
-### AI Engineering, Agents, and RAG
-
-- **AI Engineering Career Path** · Scrimba  
-  *Credential ID:* `cert2JbLs3qgBCDVg5tgaxcuwTBSDuNyJUzNm8D8Sn` · [View credential](https://scrimba.com/cert2JbLs3qgBCDVg5tgaxcuwTBSDuNyJUzNm8D8Sn)  
-  End-to-end path covering GenAI application design, prompt engineering, RAG, AI agents, API integration, and AI safety principles, oriented towards building real products rather than isolated demos.
-
-  <sub><em>Component modules within this path:</em></sub>  
-
-  - **Introduction to Artificial Intelligence Engineering** · Scrimba  
-    *Credential ID:* `cert2JbLs3qgBCDVg5tgaxcuwTCEqpea95RdQuv92t` · [View credential](https://scrimba.com/certificate-cert2JbLs3qgBCDVg5tgaxcuwTCEqpea95RdQuv92t)  
-    First formal step into applied AI engineering, focused on prompt design, model selection, OpenAI API integration (GPT-4, DALL·E 3), and foundational AI safety.
-
-  - **Introduction to Building AI Agents** · Scrimba  
-    *Credential ID:* `cert2JbLs3qgBCDVg5tgaxcuwTCFLb2LKU1DWFXKF4` · [View credential](https://scrimba.com/certificate-cert2JbLs3qgBCDVg5tgaxcuwTCFLb2LKU1DWFXKF4)  
-    Practical training in the ReAct framework, context-aware reasoning loops, and enabling agents to execute tasks via tool and API integration.
-
-  - **Python Programming** · Scrimba  
-    *Credential ID:* `certificate-cert2uNjgWdv7QmA9HrDBbTkGiQ4Jmjxq7jhwtd` · [View credential](https://scrimba.com/certificate-cert2uNjgWdv7QmA9HrDBbTkGiQ4Jmjxq7jhwtd)  
-    Applied Python for data analysis and machine learning, including model training and tuning with core AI libraries.
-
-  - **Retrieval-Augmented Generation (RAG)** · Scrimba  
-    *Credential ID:* `cert2JbLs3qgBCDVg5tgaxcuwTCF6CqTEGiRTb7u2L` · [View credential](https://scrimba.com/certificate-cert2JbLs3qgBCDVg5tgaxcuwTCF6CqTEGiRTb7u2L)  
-    Hands-on work with embeddings, vector databases, semantic search, and conversational AI. Techniques from this course are applied directly in FinCoach.me’s financial-context RAG flows.
-
-- **Project: Building Ambient AI Agents Workflow with LangGraph** · LangChain Academy  
-  *Credential ID:* `zx0j7g2en5` · [View credential](https://academy.langchain.com/certificates/zx0j7g2en5)  
-  Developed stateful, multi-agent workflows with LangGraph, including autonomous reasoning capabilities, human-in-the-loop integration, and practical agent evaluation for production-ready systems.
-
-### Graph Data and Knowledge Graphs
-
-- **Introduction to Neo4j Graph Database** · Neo4j GraphAcademy  
-  *Credential ID:* `5bcd78d6-e849-4185-a649-e33da2e69a3c` · [View credential](https://graphacademy.neo4j.com/c/5bcd78d6-e849-4185-a649-e33da2e69a3c/)  
-
-- **Cypher Fundamentals** · Neo4j GraphAcademy  
-  *Credential ID:* `1fc3877e-5c7c-47b9-b936-90b532c92d49` · [View credential](https://graphacademy.neo4j.com/c/1fc3877e-5c7c-47b9-b936-90b532c92d49/)  
-
-These courses provide a foundation in graph theory, the Neo4j property graph model, and Cypher for querying and mutating graph data, with a focus on knowledge graphs, GraphRAG, and recommendation-style patterns relevant to contextual financial coaching.
+### Infra / tooling
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 ---
 
-## 📚 Professional Tracks
+## Lab index
 
-### AI Engineering Track
-
-I approach AI engineering as a long-term craft. The Scrimba AI Engineering Career Path, the LangGraph project, and my own experiments serve as formal scaffolding, but the principal evidence is the architecture and behaviour of systems such as FinCoach.me and ContextEngine.
-
----
-
-### Financial Planning, Wealth Management, and FP&A Track
-
-I am a **Chartered Financial Planner trainee** in Ontario, Canada, where the “Financial Planner” title is regulated, and I am pursuing complementary tracks in wealth management and FP&A.
-
-- **Financial Planning & Wealth Management Professional (FPWMP®) – in progress**  
-  Building breadth across:
-  - The 7-step financial planning process and holistic plan design  
-  - Risk management and insurance, estate, education, and retirement planning  
-  - Investment management, including Investment Policy Statements (IPS), asset allocation, and mandate construction  
-  - Practice management: pricing, business management, and team building for a planning or wealth practice  
-  - Relationship management, effective communication, and working with client concerns  
-  - Modern client acquisition, including sales process, pipeline development, centres of influence, and referrals  
-
-- **Financial Planning & Analysis Professional (FPAP) – in progress**  
-  Focusing on analytical and organisational finance:
-  - FP&A model design and monthly forecasting frameworks  
-  - Budgeting, rolling forecasts, and variance analysis across financial statements  
-  - Year-over-year performance analysis, seasonality, and timing of forecast updates  
-  - Executive-ready financial commentary for non-financial stakeholders  
-  - Dashboard design and financial storytelling through clear, focused visuals  
-  - Workflow streamlining, economic thinking, and cross-functional influence in decision-making  
-
-My broader aim is to stand at the intersection of regulated financial planning, wealth management, FP&A, and applied AI, so that the tools I build respect both human judgment and regulatory frameworks while remaining analytically rigorous.
+| Project | Status | Tech | What it demonstrates |
+|---|---:|---|---|
+| `agent-eval-harness` | 🟢 Active | Python • Ragas | Evaluation + guardrails for agent outputs (consistency, groundedness, format). |
+| `rag-finance-embed` | 🟣 R&D | Embeddings • Vector search | Dense retrieval tuned for financial context. |
+| `transformers-for-finance` | 🟢 Active | PyTorch • Tokenizers | Tokenization + transformer baselines on cash-flow sequences & classification tasks. |
+| `graph-rag-patterns` | 🔵 Prototype | Neo4j • Cypher | GraphRAG retrieval patterns + constraint-aware traversal. |
 
 ---
 
-### Academic Track
+## GitHub stats
 
-- **Business & Commerce (Entrepreneurship)** – undergraduate studies in Toronto, with a finance minor  
-- Coursework in economics, accounting, corporate finance, and quantitative methods, informing both product strategy and financial planning work.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alysolamon&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alysolamon&theme=merko" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alysolamon&layout=compact&theme=merko" />
+</p>
 
 ---
 
-## 📫 Connect
-
-- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-- 🌐 Website / Portfolio: [https://alysolamon.com](https://alysolamon.com)  
-- 📧 Email: [alysolamon@gmail.com](mailto:alysolamon@gmail.com)
-
-If you are working on AI for financial planning, decision tooling, or knowledge-graph-powered agents, I would be pleased to connect.
+<sub>Languages: English • Français • العربية (basic)</sub>
