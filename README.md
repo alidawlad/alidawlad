@@ -2,19 +2,16 @@
 
 <p align="center">
   AI Engineer • Fintech Builder • Financial Planning & Wealth Mgmt trainee (Ontario)
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <img src="./github-metrics.svg?v=1" width="100%" />
-    </td>
-    <td width="100%" valign="top">
-      <img src="https://streak-stats.demolab.com?user=alysolamon&theme=merko" width="100%" />
-    </td>
-  </tr>
-</table>
+</p>
+
+<h3 align="center">GitHub Metrics · Verified</h3>
+<img src="./github-metrics.svg?v=2" width="100%" alt="GitHub metrics" />
+
+
 <p align="center">
   I build calm, audit-friendly decision-support systems for financial planning — grounded outputs, clear assumptions, human final call.
 </p>
+
 
 <p align="center">
   <a href="https://bsky.app/profile/aly_solamon"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
