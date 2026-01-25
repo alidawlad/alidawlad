@@ -4,10 +4,10 @@
   AI Engineer • Fintech Builder • Financial Planning & Wealth Mgmt trainee (Ontario)
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="50%" valign="top">
       <img src="./github-metrics.svg?v=1" width="100%" />
     </td>
-    <td width="38%" valign="top">
+    <td width="50%" valign="top">
       <img src="https://streak-stats.demolab.com?user=alysolamon&theme=merko" width="100%" />
     </td>
   </tr>
@@ -20,9 +20,9 @@
   <a href="https://bsky.app/profile/aly_solamon"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
   <a href="https://instagram.com/aly_solamon"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/aly_hussein"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@aly_solamon"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://medium.com/@alysolamon"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/698546076y"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://x.com/ali_solamon"><img alt="X" src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/alisolamon"><img alt="X" src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:alysolamon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
