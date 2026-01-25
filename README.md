@@ -2,11 +2,16 @@
 
 <p align="center">
   AI Engineer • Fintech Builder • Financial Planning & Wealth Mgmt trainee (Ontario)
-</p>
-<img src="/github-metrics.svg"/>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alysolamon&theme=merko" />
-</p>
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <img src="./github-metrics.svg?v=1" width="100%" />
+    </td>
+    <td width="38%" valign="top">
+      <img src="https://streak-stats.demolab.com?user=alysolamon&theme=merko" width="100%" />
+    </td>
+  </tr>
+</table>
 <p align="center">
   I build calm, audit-friendly decision-support systems for financial planning — grounded outputs, clear assumptions, human final call.
 </p>
