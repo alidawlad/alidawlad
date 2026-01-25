@@ -41,22 +41,6 @@
   width="100%"
 />
 
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>FinCoach.me</h3>
-      <p>Planner–client workspace for cash flow, net worth, and goal tracking — with audit-friendly AI explanations + next-step suggestions.</p>
-      <p><a href="https://www.fincoach.me/">Website</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>ContextEngine</h3>
-      <p>Graph-centric context layer for grounded retrieval, constraints, and human-in-the-loop workflows (high-trust domains).</p>
-      <p><i>(Link when ready)</i></p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## About
