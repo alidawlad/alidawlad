@@ -4,10 +4,10 @@
   AI Engineer • Fintech Builder • Financial Planning & Wealth Mgmt trainee (Ontario)
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <img src="./github-metrics.svg?v=1" width="100%" />
     </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <img src="https://streak-stats.demolab.com?user=alysolamon&theme=merko" width="100%" />
     </td>
   </tr>
