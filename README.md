@@ -5,16 +5,14 @@
 </p>
 
 <div align="center">
-  <img
-    alt="GitHub Metrics Verified"
-    src="https://img.shields.io/badge/GitHub%20Metrics-Verified-2ea44f?style=flat&logo=github&logoColor=white"
-  />
+  <img src="https://img.shields.io/badge/Verified-blue?style=for-the-badge&logo=github&logoColor=white" alt="Verified User" />
 </div>
 <img src="./github-metrics.svg?v=2" width="100%" alt="GitHub metrics" />
 
 
 <p align="center">
-  I build calm, audit-friendly decision-support systems for financial planning — grounded outputs, clear assumptions, human final call.
+  <samp>Building calm, audit-friendly decision-support systems for financial planning.</samp><br/>
+  <b>Grounded outputs • Clear assumptions • Human final call</b>
 </p>
 
 
@@ -47,12 +45,32 @@
 
 ## About
 
-- 🔭 Working on: FinCoach.me — planner–client workspace + audit-friendly AI explanations.
-- 🌱 Learning: Transformers for financial sequences + evaluation harnesses for grounded outputs.
-- 👯 Collaborate: Open-source GraphRAG + eval + human-in-the-loop workflows (finance & beyond).
-- 🤝 Help wanted: System design reviews for agentic apps: tradeoffs, failure modes, reliability.
-- 💬 Ask me about: Next.js/TS, Convex, GraphRAG (Neo4j), and calm fintech UX.
-- ⚡ Fun fact: I prototype “calm finance” UX like people prototype games.
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>🔭 Working on</h3>
+        <p><b>FinCoach.me</b> — A planner–client workspace with audit-friendly AI explanations. Focusing on secure, explainable financial advice.</p>
+      </td>
+      <td valign="top" width="50%">
+        <h3>🌱 Learning</h3>
+        <p>Transformers for financial sequences, evaluation harnesses for grounded outputs, and advanced agentic reliability patterns.</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <h3>👯 Collaborate</h3>
+        <p>Open-source <b>GraphRAG</b>, evaluation frameworks, and human-in-the-loop workflows for finance and high-stakes domains.</p>
+      </td>
+      <td valign="top">
+        <h3>💬 Ask me about</h3>
+        <p>Next.js & TypeScript, Convex, Neo4j/GraphRAG, and designing "calm" fintech user experiences.</p>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <p>⚡ <i>Fun fact: I prototype “calm finance” UX like people prototype games.</i></p>
+</div>
 
 ---
 
@@ -65,25 +83,28 @@
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Product + platform
+### AI / ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Notebooks & IDEs
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Product + Platform
 ![Convex](https://img.shields.io/badge/Convex-111111?style=for-the-badge&logo=convex&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111)
-
-### Data
+### Data & Infrastructure
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Infra / tooling
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
