@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Verified-blue?style=for-the-badge&logo=github&logoColor=white" alt="Verified User" />
+  <img src="https://img.shields.io/badge/Verified_Metric-blue?style=for-the-badge&logo=github&logoColor=white" alt="Verified User" />
 </div>
 <img src="./github-metrics.svg?v=2" width="100%" alt="GitHub metrics" />
 
