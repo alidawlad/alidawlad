@@ -4,7 +4,12 @@
   AI Engineer • Fintech Builder • Financial Planning & Wealth Mgmt trainee (Ontario)
 </p>
 
-<h3 align="center">GitHub Metrics · Verified</h3>
+<div align="center">
+  <img
+    alt="GitHub Metrics Verified"
+    src="https://img.shields.io/badge/GitHub%20Metrics-Verified-2ea44f?style=flat&logo=github&logoColor=white"
+  />
+</div>
 <img src="./github-metrics.svg?v=2" width="100%" alt="GitHub metrics" />
 
 
