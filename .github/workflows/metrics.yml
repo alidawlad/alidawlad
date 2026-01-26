@@ -1,51 +1,48 @@
-name: metrics
+name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 6 * * *" # daily
   workflow_dispatch:
 
 permissions:
   contents: write
 
-concurrency:
-  group: metrics-${{ github.ref }}
-  cancel-in-progress: true
-
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate github-metrics.svg
+      - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # Use your PAT so private/org repos can count toward languages
+          # READ token (recommended: fine-grained PAT with access to your repos)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Commit the generated SVG using the workflow token
+          # WRITE token (use built-in token to commit the svg)
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
+          committer_message: "chore: update metrics"
 
-          # Output file saved at repo root
+          user: alysolamon
+          template: classic
           filename: github-metrics.svg
 
-          # TEMPLATE + CONTENT
-          template: classic
+          # IMPORTANT: removes the header entirely (no joined date, no followers)
+          base: ""
 
-          # ✅ NO HEADER → removes Joined + Followers automatically
-          base: activity
-
-          # Repo coverage (for better language accuracy)
-          repositories: 200
-          repositories_affiliations: owner, collaborator, organization_member
-
-          # Languages
+          # Languages block
           plugin_languages: yes
-          plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_details: percentage, bytes-size
           plugin_languages_ignored: mdx, html, css
 
-          # Optional: if you want “Jupyter Notebook” to read nicer:
-          # plugin_languages_aliases: "Jupyter Notebook:Python (notebooks)"
+          # Tech/topics block (this is how you surface PyTorch/NumPy/etc)
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 12
+          plugin_topics_sort: stars
+
+          # Optional: widen layout a bit
+          config_display: large
+          config_animations: yes
