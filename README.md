@@ -21,7 +21,6 @@
   <a href="https://instagram.com/aly_solamon"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/aly_hussein"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@alysolamon"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/32254250/aly-solamon"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
   <a href="https://x.com/alisolamon"><img alt="X" src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:alysolamon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
